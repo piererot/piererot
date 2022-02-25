@@ -1,5 +1,4 @@
 I don't like $ETH fees.
-Follow me on Twitter: @piererot
 
 <!---
 piererot/piererot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
